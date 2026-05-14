@@ -57,7 +57,7 @@ to `http://localhost:8080` to access the web interface.
 | `--cert` | `` | Path to CA certificate |
 | `--key` | `` | Path to CA private key |
 | `--upstream` | `` | Upstream proxy URL |
-| `--verbose` | `false` | Enable verbose logging |
+| `--verbose` | `true` | Enable verbose logging |
 
 ### Setting up the CA certificate
 
